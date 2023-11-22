@@ -1,0 +1,24 @@
+{
+    "permissions": [
+        {
+            "user_id": "",
+            "username": "Dev1s0n",
+            "permissions": [
+                "teleport",
+                "print",
+                "say",
+                "walk"
+            ]
+        },
+        {
+            "user_id": "",
+            "username": "1fxd1",
+            "permissions": [
+                "teleport",
+                "print",
+                "say",
+                "walk"
+            ]
+        }
+    ]
+}
